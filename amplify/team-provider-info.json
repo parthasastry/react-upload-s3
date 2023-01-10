@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactfiless3-dev-82031-authRole",
+      "UnauthRoleArn": "arn:aws:iam::787712164988:role/amplify-reactfiless3-dev-82031-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::787712164988:role/amplify-reactfiless3-dev-82031-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-reactfiless3-dev-82031-deployment",
+      "UnauthRoleName": "amplify-reactfiless3-dev-82031-unauthRole",
+      "StackName": "amplify-reactfiless3-dev-82031",
+      "StackId": "arn:aws:cloudformation:us-west-2:787712164988:stack/amplify-reactfiless3-dev-82031/94eca110-82c4-11ed-a924-02ed2b4e2681",
+      "AmplifyAppId": "d24no1gozi03g8"
+    },
+    "categories": {
+      "auth": {
+        "reactfiless3e1e15360": {}
+      },
+      "storage": {
+        "reactfiless3": {}
+      }
+    }
+  }
+}
